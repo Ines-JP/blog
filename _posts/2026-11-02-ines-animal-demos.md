@@ -40,4 +40,4 @@ In addition, zebrafish are preyed upon by the Indian leaf fish, and showing its 
 # Have a go!
 You can download the demos, modify them as needed, and run them in your own setup. Let us know if you have any questions or suggestions! We are always available in [Discourse](https://discourse.psychopy.org/).
 
-You can also create your own animal behaviour experiments and make them available to the rest of the users to help the scientific community. A few months ago we ran a [workshop](https://workshops.psychopy.org/ "Official PsychoPy Workshops page") on how to create experiments for rodent learning; you can find its openly available material [here](https://drive.google.com/drive/folders/15CMuKKz7fgNBhbL9GanTL5jgxW_gnUad).
+You can also create your own animal behaviour experiments and make them available to the rest of the users to help the scientific community. A few months ago we ran a [workshop](https://workshops.psychopy.org/ "Official PsychoPy Workshops page") on how to create experiments for rodent learning; you can find its openly available material [here](https://drive.google.com/drive/folders/15CMuKKz7fgNBhbL9GanTL5jgxW_gnUad). Have fun!
