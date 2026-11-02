@@ -52,3 +52,12 @@ Sue Lynn:
   
 BenL:
   name        : "Dr Benjamin Lowe"
+
+Inés:
+  name        : "Inés Jiménez Pulido"
+  bio         : "Neuroscientist, PhD intern at OST"
+  avatar      : "/assets/images/InesJP.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/inesjimenezpulido/"
